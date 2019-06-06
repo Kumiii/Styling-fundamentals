@@ -17,6 +17,18 @@ This workshop will give a short introduction to styling (CSS), and contain assig
 
 [Exercise 6 - Freestyle](exercise-6/readme.md)
 
+
+#### Icons with special meaning
+
+- :pencil2: - A task you should do
+- :book: - A section of text to read (no tasks, just information).
+- :bulb: - Additional information.
+- :exclamation: - Something important.
+- :question: - Open-ended question for the reader ("What do you think would happen if...")
+- :poop: - Bad practice (don't-do-this)
+- :star: - A bonus task (not required)
+
+
 ## Nice to have links
 
 [CSS Properties (W3Schools)](https://www.w3schools.com/cssref/default.asp)
@@ -30,12 +42,3 @@ This workshop will give a short introduction to styling (CSS), and contain assig
 [A Complete Guide to Flexbox (CSS-tricks.com)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 
-#### Icons with special meaning
-
-- :pencil2: - A task you should do
-- :book: - A section of text to read (no tasks, just information).
-- :bulb: - Additional information.
-- :exclamation: - Something important.
-- :question: - Open-ended question for the reader ("What do you think would happen if...")
-- :poop: - Bad practice (don't-do-this)
-- :star: - A bonus task (not required)
