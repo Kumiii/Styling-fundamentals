@@ -19,9 +19,13 @@ This workshop will give a short introduction to styling (CSS), and contain assig
 
 ## Nice to have links
 
-[CSS Properties overview (W3Schools)](https://www.w3schools.com/cssref/default.asp)
+[CSS Properties (W3Schools)](https://www.w3schools.com/cssref/default.asp)
 
-[Flexboxfroggy - a game to learn flexbox](https://flexboxfroggy.com/)
+[CSS Selectors (W3Schools)](https://www.w3schools.com/cssref/css_selectors.asp)
+
+[Psaudo-classes (MDN web docs)](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+
+[Flexboxfroggy - A game to learn flexbox](https://flexboxfroggy.com/)
 
 [A Complete Guide to Flexbox (CSS-tricks.com)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
