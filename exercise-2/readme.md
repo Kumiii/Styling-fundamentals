@@ -53,8 +53,8 @@ These two css properties come with the values `top`, `left`, `right` and `bottom
 
 ## :pencil2: Box model Tasks
 Remember to ask if you are stuck, also [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS) is a good resource.
-In this exercise use the example code in this code pen: [Box model Tasks](https://codepen.io/taranger/pen/moLWMB)
-Solution to the box model tasks can be found here: [Box model Tasks solution](https://codepen.io/taranger/pen/XGqVXL)
+In this exercise use the example code in this code pen: [Box model Tasks](https://codepen.io/marenpg/pen/jONgGYp)
+Solution to the box model tasks can be found here: [Box model Tasks solution](https://codepen.io/marenpg/pen/RwbXLEg)
 
 #### Task 1
 Try giving the .item class a padding of 20px and see what happens. The span elements are displayed as inline by default, so when setting padding to 20px, the elements will flow outside of the container.
@@ -70,8 +70,8 @@ Lets add a border to the boxes, border properties are written in this format: `b
 
 ## :pencil2: Flow Tasks
 Remember to ask if you are stuck, also [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS) is a good resource.
-In this exercise use the example code in this code pen: [Flow Tasks](https://codepen.io/taranger/pen/QorPXP)
-Solution to the Flow Tasks can be found here: [Flow Tasks solution](https://codepen.io/taranger/pen/oVdRXG)
+In this exercise use the example code in this code pen: [Flow Tasks](https://codepen.io/marenpg/pen/gOYVGqo)
+Solution to the Flow Tasks can be found here: [Flow Tasks solution](https://codepen.io/marenpg/pen/gOYVGEo)
 
 In this task we have a chatbox that is placed together with the rest of the content on the site, we want it to be placed outside of the content and be available while browsing the site.
 
