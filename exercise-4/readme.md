@@ -36,13 +36,13 @@ In the example below you can see that we set the body width to 100% when the scr
 There are a number of different breakpoint configurations that is possible, it all depends on what your target devices are. But it is common to set mobile size from around 400-800px, tablet from 800-1000px and desktop from around 1000 and up. Some websites have breakpoints at larger sizes than that, in order to support 4k screens for example.
 
 ## :pencil2: Media queries Tasks
-Open the starting point for this assignment on codepen [Mediaqueries exercise](https://codepen.io/taranger/pen/dreBay).
-Solution can be found here [Mediaqueries exercise solution](https://codepen.io/taranger/pen/vPjqbN)
+Open the starting point for this assignment on codepen [Mediaqueries exercise](https://codepen.io/marenpg/pen/bGbXYqz).
+Solution can be found here [Mediaqueries exercise solution](https://codepen.io/marenpg/pen/yLBmPbL)
 
 Open the mediaqueries exercise starting point code pen. Move the divider centered on the screen to stretch the webpage. Observe how the elements stretch and shrink. They still keep their position relative to eachother. For example the sidebar will still be placed on the same row as the main-content even if the window shrinks below 600px. So if this were to be viewed on a mobile or tablet, these two containers would be too crammed with content.
 
 #### Task 1
-We want to make it so that on mobile, the main-content and sidebar is stacked ontop of eachother instead of side by side. Write a mediaquery that is set to max width of 600px and inside of it set the display property of .content to block instead of flex.
+We want to make it so that on mobile, the main-content and sidebar is stacked ontop of eachother instead of side by side. Write a mediaquery that is set to max width of 600px and inside of it set the display property of .container to block instead of flex.
 
 #### Task 2
 Lets make the main-content and sidebar fill the whole width on mobile. Change the width of .main-content and .sidebar so that they take up full width in this mediaquery.
