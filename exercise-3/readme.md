@@ -92,8 +92,8 @@ Solution can be found here [Float layout exercise solution](https://codepen.io/t
 
 ## :pencil2: Flexbox Tasks
 Remember to ask if you are stuck, also [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS) is a good resource.
-In this exercise use the example code in this code pen: [Flexbox Tasks](https://codepen.io/taranger/pen/OqZzWz)
-Solution to the Flexbox Tasks can be found here: [Flexbox Tasks solution](https://codepen.io/taranger/pen/xBjeLG)
+In this exercise use the example code in this code pen: [Flexbox Tasks](https://codepen.io/marenpg/pen/VwZorjM)
+Solution to the Flexbox Tasks can be found here: [Flexbox Tasks solution](https://codepen.io/marenpg/pen/mdbNqOL)
 
 Open the flexbox tasks code pen and start by dragging the window divider in the middle of the screen to try and squeeze the boxes on the right. Or you can drag the whole browser window and see what happens. Since the container does not have the flex dispaly property, and the children elements have the inline-block display property, they will wrap to the next line when whe available space is gone.
 

@@ -155,8 +155,8 @@ The example above contains a div with two elements "h1" and "p", separating the 
 ```
 ## :pencil2: Tasks
 Remember to ask if you are stuck on these tasks, also [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS) is a good resource.
-In this exercise use the example code in this code pen: [Selector exercises](https://codepen.io/taranger/pen/NJaOzM)
-Solution can be found here: [Selector exercises solution](https://codepen.io/taranger/pen/YgjyGd)
+In this exercise use the example code in this code pen: [Selector exercises](https://codepen.io/marenpg/pen/YzKoXex)
+Solution can be found here: [Selector exercises solution](https://codepen.io/marenpg/pen/dybxVzG)
 
 #### Task 1
 Change the color of the h1 element to red. (The h1 element can be found on line 29 with `display: inline-block` property already present)
@@ -169,7 +169,7 @@ Change the color of the h1 element to red. (The h1 element can be found on line 
 ```
 
 #### Task 2
-Make another identical selector for h1 below the previous one and set the color to blue. See that it overrides the existing css rule above it. You should have two h1 selector at this point.
+Make another identical selector for h1 below the previous one and set the color to orange. See that it overrides the existing css rule above it. You should have two h1 selector at this point.
 :exclamation: this is not best practise but only for illustrating how the cascade works.
 
 #### Task 3
@@ -186,7 +186,7 @@ Make it so when you hover the checkboxes `<input>`, the cursor changes to a poin
 You can either target them by targeting all "input" elements or more specifically targeting elements with the attribute `type="checkbox"`. 
 
 #### Task 5
-Target the `#content` id selector of the page and give it a background color using the value "#c3e4d6", and a padding of 20px;
+Target the `#content` id selector of the page and give it a background color using the value "#F2A818", and a padding of 20px;
 
 #### Task 6
 Add an inline style attribute to the h1 header and add a property that puts the font-size at 50px;
