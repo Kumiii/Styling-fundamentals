@@ -76,10 +76,10 @@ Solution to the Flow Tasks can be found here: [Flow Tasks solution](https://code
 In this task we have a chatbox that is placed together with the rest of the content on the site, we want it to be placed outside of the content and be available while browsing the site.
 
 #### Task 1
-Add a absolute position property to the chatbox and observe what happens. The content around it will collapse and the box is not taken out of the document flow.
+Add an absolute position property to the chatbox and observe what happens. The content around it will collapse and the box is not taken out of the document flow.
 
 #### Task 2 
-position the chatbox 10 pixels from the top and 5 pixels from the left. The box will now look for the nearest element with relative positioning and lock to it. Since the content container does not have any position: relative to it. The chatbox will position itself based on the browser window instead.
+Position the chatbox 10 pixels from the top and 5 pixels from the left. The box will now look for the nearest element with relative positioning and lock to it. Since the content container does not have `position: relative`, the chatbox will position itself based on the browser window instead.
 
 #### Task 3
 Notice that when we scroll on the site, the chatbox does not follow us. We want it to follow us while we scroll. Make it into a fixed position instead.

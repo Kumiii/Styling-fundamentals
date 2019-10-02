@@ -189,6 +189,6 @@ You can either target them by targeting all "input" elements or more specificall
 Target the `#content` id selector of the page and give it a background color using the value "#F2A818", and a padding of 20px;
 
 #### Task 6
-Add a inline style attribute to the h1 header and add a property that puts the font-size at 50px;
+Add an inline style attribute to the h1 header and add a property that puts the font-size at 50px;
 
 ### [Go to exercise 2 :arrow_right:](../exercise-2/readme.md)
