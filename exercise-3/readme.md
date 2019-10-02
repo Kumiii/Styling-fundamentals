@@ -98,7 +98,7 @@ Solution to the Flexbox Tasks can be found here: [Flexbox Tasks solution](https:
 Open the flexbox tasks code pen and start by dragging the window divider in the middle of the screen to try and squeeze the boxes on the right. Or you can drag the whole browser window and see what happens. Since the container does not have the flex dispaly property, and the children elements have the inline-block display property, they will wrap to the next line when whe available space is gone.
 
 #### Task 1
-We want to make this container and its elements flex, so lets start by giving the html element with the class ".flex-container" a display property of "flex". squeeze the browser window as you just did but observe how the children behave 
+We want to make this container and its elements flex, so lets start by giving the html element with the class ".flex-container" a display property of "flex". Squeeze the browser window as you just did, but observe how the children behave.
 
 #### Task 2
 Flex-direction is now set to row, as it is default. Change the flex-direction on the flex-container to column but in a reverse order.
